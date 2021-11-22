@@ -42,6 +42,7 @@ public class Demo {
         String string = EntityUtils.toString(entity);
         System.out.println(string);
         Map<String,Object> map = JSON.parseObject(string);
+        // 设置数据
         Integer data = (Integer) map.get("data");
         System.out.println(data);
         /*RestResp resp = JSON.parseObject(string,RestResp.class);
