@@ -13,8 +13,7 @@ public class Apple {
     }
 
     public void setAppleProvider(String appleProvider) {
-
-        // 测试提交
+        
         this.appleProvider = appleProvider;
     }
 }
