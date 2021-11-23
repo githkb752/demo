@@ -2,6 +2,7 @@ package cn.nskjy.demo.annotation;
 
 /**
  * 使用注解
+ * @auth YINTINGTING001
  */
 public class Apple {
 
