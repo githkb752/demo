@@ -14,6 +14,7 @@ public class Apple {
 
     public void setAppleProvider(String appleProvider) {
 
+        // 差异
         this.appleProvider = appleProvider;
     }
 }
